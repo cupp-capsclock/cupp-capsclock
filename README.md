@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mkdircup&label=Profile%20views&color=0e75b6&style=flat" alt="mkdircup" /> </p>
 
-- 🔭 I’m currently working on **SnapInsta** and **TikTokSnap**
+- 🔭 I’m currently working on **TikTokSnap**
 
 - 👨‍💻 All of my projects are available at [github.com/mkdircup](https://github.com/mkdircup)
 
-- ⚡ Fun fact: **GANTI_DENGAN_FUN_FACT_KAMU**
+- ⚡ Fun fact: **I turn random ideas into working projects**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
